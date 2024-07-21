@@ -216,12 +216,12 @@ body {
     padding-bottom: 2.5rem;
 }
 
-.game .row .menu-card img {
+.game .row .menu-card a img {
     border-radius: 50%;
     width: 80%;
 }
 
-.game .row .menu-card .game-title {
+.game .row .menu-card a .game-title {
     margin-top: 1rem auto 0.5rem;
 }
 
