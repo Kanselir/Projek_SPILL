@@ -170,7 +170,7 @@ body {
     flex: 1 1 45rem;
 }
 
-.about .row .about-img img {
+.about .row .about-img img, .about .row .about-img video {
     width: 100%;
 }
 
@@ -369,7 +369,7 @@ footer .pembuat span {
         flex-wrap: wrap;
     }
 
-    .about .row .about-img img {
+    .about .row .about-img img, .about .row .about-img video {
         height: 24rem;
         object-fit: cover;
         object-position: center;
